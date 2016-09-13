@@ -2,7 +2,7 @@
     "name": "ng-leaflet",
     "author": "https://github.com/ajsb85/ng-leaflet/graphs/contributors",
     "description": "ng-leaflet - An AngularJS directive to easily interact with Leaflet maps",
-    "version": "0.10.1",
+    "version": "0.10.2",
     "homepage": "http://ajsb85.github.io/ng-leaflet/",
     "keywords": [
         "angularjs",
