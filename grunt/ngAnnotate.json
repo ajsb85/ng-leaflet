@@ -2,7 +2,7 @@
      "options": {},
      "dist": {
          "files": {
-             "dist/angular-leaflet.no-header.js": [ "dist/angular-leaflet.pre.js" ]
+             "dist/ng-leaflet.no-header.js": [ "dist/ng-leaflet.pre.js" ]
          }
      }
 }

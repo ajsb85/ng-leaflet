@@ -1,7 +1,7 @@
 /**!
  * The MIT License
  *
- * Copyright (c) 2013 the angular-leaflet Team, http://ajsb85.github.io/angular-leaflet
+ * Copyright (c) 2013 the ng-leaflet Team, http://ajsb85.github.io/ng-leaflet
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,8 +21,8 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * angular-leaflet
- * https://github.com/ajsb85/angular-leaflet
+ * ng-leaflet
+ * https://github.com/ajsb85/ng-leaflet
  *
- * @authors https://github.com/ajsb85/angular-leaflet/graphs/contributors
+ * @authors https://github.com/ajsb85/ng-leaflet/graphs/contributors
  */

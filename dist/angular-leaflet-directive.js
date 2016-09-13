@@ -1,7 +1,7 @@
 /**!
  * The MIT License
  *
- * Copyright (c) 2013 the angular-leaflet Team, http://ajsb85.github.io/angular-leaflet
+ * Copyright (c) 2013 the ng-leaflet Team, http://ajsb85.github.io/ng-leaflet
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,16 +21,16 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * angular-leaflet
- * https://github.com/ajsb85/angular-leaflet
+ * ng-leaflet
+ * https://github.com/ajsb85/ng-leaflet
  *
- * @authors https://github.com/ajsb85/angular-leaflet/graphs/contributors
+ * @authors https://github.com/ajsb85/ng-leaflet/graphs/contributors
  */
 
 /*!
-*  angular-leaflet  2015-11-06
-*  angular-leaflet - An AngularJS directive to easily interact with Leaflet maps
-*  git: https://github.com/ajsb85/angular-leaflet
+*  ng-leaflet  2015-11-06
+*  ng-leaflet - An AngularJS directive to easily interact with Leaflet maps
+*  git: https://github.com/ajsb85/ng-leaflet
 */
 (function(angular){
 'use strict';
@@ -57,7 +57,7 @@ angular.module('leaflet-directive', []).directive('leaflet', ["$q", "leafletData
       geojsonWatchOptions: '=',
     },
     transclude: true,
-    template: '<div class="angular-leaflet-map"><div ng-transclude></div></div>',
+    template: '<div class="ng-leaflet-map"><div ng-transclude></div></div>',
     controller: ["$scope", function($scope) {
       this._leafletMap = $q.defer();
       this.getMap = function() {
@@ -4089,7 +4089,7 @@ angular.module('leaflet-directive').directive('layercontrol', ["$filter", "$log"
     }],
 
     template:
-    '<div class="angular-leaflet-control-layers" ng-show="overlaysArray.length">' +
+    '<div class="ng-leaflet-control-layers" ng-show="overlaysArray.length">' +
         '<h4 ng-if="title">{{ title }}</h4>' +
         '<div class="lf-baselayers">' +
             '<h5 class="lf-title" ng-if="baseTitle">{{ baseTitle }}</h5>' +

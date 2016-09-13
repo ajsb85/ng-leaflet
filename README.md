@@ -3,13 +3,13 @@
 [AngularJS](http://angularjs.org/) directive for the [Leaflet](http://www.leafletjs.com/) Javascript
 Library. This software aims to easily embed maps managed by Leaflet on your project.
 
-### [ajsb85/angular-leaflet](http://github.com/ajsb85/angular-leaflet)
-This is a personal project, which has been coded by me helped by many people for some years. I'm evolving it frequently, actually I'm making the code transition to Leaflet 1.0 and Angular 2. If you need enterprise for older versions, sorry, I can't give you more support that my spare time allows me. If you want to help with the actual code it would be really appreciated, but first of all, please, read the * [CONTRIBUTING documentation](https://github.com/ajsb85/angular-leaflet/blob/master/CONTRIBUTING.md)
+### [ajsb85/ng-leaflet](http://github.com/ajsb85/ng-leaflet)
+This is a personal project, which has been coded by me helped by many people for some years. I'm evolving it frequently, actually I'm making the code transition to Leaflet 1.0 and Angular 2. If you need enterprise for older versions, sorry, I can't give you more support that my spare time allows me. If you want to help with the actual code it would be really appreciated, but first of all, please, read the * [CONTRIBUTING documentation](https://github.com/ajsb85/ng-leaflet/blob/master/CONTRIBUTING.md)
 
 
-[![Build Status](https://travis-ci.org/ajsb85/angular-leaflet.png?branch=master)](https://travis-ci.org/ajsb85/angular-leaflet) [![Dependencies](https://david-dm.org/ajsb85/angular-leaflet.svg)](https://david-dm.org/ajsb85/angular-leaflet)&nbsp;
-[![Dependencies](https://david-dm.org/ajsb85/angular-leaflet/dev-status.svg)](https://david-dm.org/ajsb85/angular-leaflet) [![Coverage
-Status](https://coveralls.io/repos/ajsb85/angular-leaflet/badge.png?branch=master)](http://ajsb85.github.io/angular-leaflet/coverage/PhantomJS%201.9.7%20%28Linux%29/lcov-report/dist/angular-leaflet.js.html)
+[![Build Status](https://travis-ci.org/ajsb85/ng-leaflet.png?branch=master)](https://travis-ci.org/ajsb85/ng-leaflet) [![Dependencies](https://david-dm.org/ajsb85/ng-leaflet.svg)](https://david-dm.org/ajsb85/ng-leaflet)&nbsp;
+[![Dependencies](https://david-dm.org/ajsb85/ng-leaflet/dev-status.svg)](https://david-dm.org/ajsb85/ng-leaflet) [![Coverage
+Status](https://coveralls.io/repos/ajsb85/ng-leaflet/badge.png?branch=master)](http://ajsb85.github.io/ng-leaflet/coverage/PhantomJS%201.9.7%20%28Linux%29/lcov-report/dist/ng-leaflet.js.html)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 ### [angular-ui](http://github.com/angular-ui/ui-leaflet)
@@ -21,11 +21,11 @@ Status](https://coveralls.io/repos/angular-ui/ui-leaflet/badge.png?branch=master
 
 ## Examples
 
-[Browse all the examples](http://ajsb85.github.io/angular-leaflet/examples/0000-viewer.html) added by the community to learn about the directive and its possibilities.
+[Browse all the examples](http://ajsb85.github.io/ng-leaflet/examples/0000-viewer.html) added by the community to learn about the directive and its possibilities.
 
 ## Documentation
 
-Still working on it. In the meantime, take a look at this URL for some minimal descriptions: https://ajsb85.github.com/angular-leaflet
+Still working on it. In the meantime, take a look at this URL for some minimal descriptions: https://ajsb85.github.com/ng-leaflet
 
 ## Getting started/How to use it
 

@@ -9,21 +9,21 @@
             "src/services/*.js",
             "src/**/*.js"
         ],
-        "dest": "dist/angular-leaflet.pre.js"
+        "dest": "dist/ng-leaflet.pre.js"
     },
     "license": {
         "src": [
             "src/header-MIT-license.txt",
-            "dist/angular-leaflet.no-header.js"
+            "dist/ng-leaflet.no-header.js"
         ],
-        "dest": "dist/angular-leaflet.js"
+        "dest": "dist/ng-leaflet.js"
     },
     "license-minified": {
         "src": [
             "src/header-MIT-license.txt",
-            "dist/angular-leaflet.min.no-header.js"
+            "dist/ng-leaflet.min.no-header.js"
         ],
-        "dest": "dist/angular-leaflet.min.js"
+        "dest": "dist/ng-leaflet.min.js"
     },
     "examples": {
         "options": {

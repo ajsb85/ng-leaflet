@@ -1,7 +1,7 @@
 /*!
-*  angular-leaflet  2015-11-06
-*  angular-leaflet - An AngularJS directive to easily interact with Leaflet maps
-*  git: https://github.com/ajsb85/angular-leaflet
+*  ng-leaflet  2015-11-06
+*  ng-leaflet - An AngularJS directive to easily interact with Leaflet maps
+*  git: https://github.com/ajsb85/ng-leaflet
 */
 (function(angular){
 'use strict';
@@ -28,7 +28,7 @@ angular.module('leaflet-directive', []).directive('leaflet', ["$q", "leafletData
       geojsonWatchOptions: '=',
     },
     transclude: true,
-    template: '<div class="angular-leaflet-map"><div ng-transclude></div></div>',
+    template: '<div class="ng-leaflet-map"><div ng-transclude></div></div>',
     controller: ["$scope", function($scope) {
       this._leafletMap = $q.defer();
       this.getMap = function() {
@@ -4060,7 +4060,7 @@ angular.module('leaflet-directive').directive('layercontrol', ["$filter", "$log"
     }],
 
     template:
-    '<div class="angular-leaflet-control-layers" ng-show="overlaysArray.length">' +
+    '<div class="ng-leaflet-control-layers" ng-show="overlaysArray.length">' +
         '<h4 ng-if="title">{{ title }}</h4>' +
         '<div class="lf-baselayers">' +
             '<h5 class="lf-title" ng-if="baseTitle">{{ baseTitle }}</h5>' +

@@ -1,9 +1,9 @@
 {
-    "name": "angular-leaflet",
-    "author": "https://github.com/ajsb85/angular-leaflet/graphs/contributors",
-    "description": "angular-leaflet - An AngularJS directive to easily interact with Leaflet maps",
+    "name": "ng-leaflet",
+    "author": "https://github.com/ajsb85/ng-leaflet/graphs/contributors",
+    "description": "ng-leaflet - An AngularJS directive to easily interact with Leaflet maps",
     "version": "0.10.1",
-    "homepage": "http://ajsb85.github.io/angular-leaflet/",
+    "homepage": "http://ajsb85.github.io/ng-leaflet/",
     "keywords": [
         "angularjs",
         "javascript",
@@ -11,7 +11,7 @@
         "leaflet"
     ],
     "main": [
-        "dist/angular-leaflet.js"
+        "dist/ng-leaflet.js"
     ],
     "dependencies": {
         "angular": "1.x",

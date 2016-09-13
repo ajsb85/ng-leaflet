@@ -5,9 +5,9 @@ Thumbs.db
 
 # Project
 # ===========
-dist/angular-leaflet.pre.js
-dist/angular-leaflet.min.no-header.js
-js/angular-leaflet-webpage.ngmin.js
+dist/ng-leaflet.pre.js
+dist/ng-leaflet.min.no-header.js
+js/ng-leaflet-webpage.ngmin.js
 
 # Related ecosystem
 # ===========

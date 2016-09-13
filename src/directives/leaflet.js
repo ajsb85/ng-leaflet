@@ -21,7 +21,7 @@ angular.module('leaflet-directive', []).directive('leaflet', function($q, leafle
       geojsonWatchOptions: '=',
     },
     transclude: true,
-    template: '<div class="angular-leaflet-map"><div ng-transclude></div></div>',
+    template: '<div class="ng-leaflet-map"><div ng-transclude></div></div>',
     controller: function($scope) {
       this._leafletMap = $q.defer();
       this.getMap = function() {
