@@ -9,7 +9,7 @@ When submitting an issue please include context from your test and
 your application. If there's an error, please include the error text.
 
 It isn't always easy to understand the bug/problem visually, you can use this [predefined
-jsfiddle](http://jsfiddle.net/maistho/9jymzymu/) example which loads a simple map. 
+jsfiddle](http://jsfiddle.net/maistho/9jymzymu/) example which loads a simple map.
 Then you can customize it to demonstrate your issue.
 
 Code style
@@ -98,7 +98,7 @@ INFO [launcher]: Starting browser PhantomJS
 connect: res.headerSent: use standard res.headersSent
 INFO [PhantomJS 1.9.7 (Windows 7)]: Connected on socket NsAl4vm9SQZj3FYZUyNF with id 811947
 PhantomJS 1.9.7 (Windows 7): Executed 55 of 140 SUCCESS (0 secs / 0.242 secs)
-PhantomJS 1.9.7 (Windows 7): Executed 73 of 140 SUCCESS (0 secs / 0.462 secs)     
+PhantomJS 1.9.7 (Windows 7): Executed 73 of 140 SUCCESS (0 secs / 0.462 secs)
 WARN [web-server]: 404: /base/bower_components/leaflet/dist/images/marker-shadow.png
 PhantomJS 1.9.7 (Windows 7): Executed 140 of 140 SUCCESS (2.693 secs / 2.844 secs)
 
