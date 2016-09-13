@@ -1,7 +1,7 @@
 /**!
  * The MIT License
  *
- * Copyright (c) 2013 the angular-leaflet-directive Team, http://tombatossals.github.io/angular-leaflet-directive
+ * Copyright (c) 2013 the angular-leaflet Team, http://tombatossals.github.io/angular-leaflet
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -21,16 +21,16 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  *
- * angular-leaflet-directive
- * https://github.com/tombatossals/angular-leaflet-directive
+ * angular-leaflet
+ * https://github.com/tombatossals/angular-leaflet
  *
- * @authors https://github.com/tombatossals/angular-leaflet-directive/graphs/contributors
+ * @authors https://github.com/tombatossals/angular-leaflet/graphs/contributors
  */
 
 /*!
-*  angular-leaflet-directive  2015-11-06
-*  angular-leaflet-directive - An AngularJS directive to easily interact with Leaflet maps
-*  git: https://github.com/tombatossals/angular-leaflet-directive
+*  angular-leaflet  2015-11-06
+*  angular-leaflet - An AngularJS directive to easily interact with Leaflet maps
+*  git: https://github.com/tombatossals/angular-leaflet
 */
 (function(angular){
 'use strict';

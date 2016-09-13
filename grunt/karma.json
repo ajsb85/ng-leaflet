@@ -10,7 +10,7 @@
         "singleRun": true,
         "reporters": ["progress", "coverage"],
         "preprocessors": {
-            "dist/angular-leaflet-directive.js": ["coverage"]
+            "dist/angular-leaflet.js": ["coverage"]
         },
         "coverageReporter": {
             "reporters": [

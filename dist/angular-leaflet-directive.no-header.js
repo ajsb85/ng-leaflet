@@ -1,7 +1,7 @@
 /*!
-*  angular-leaflet-directive  2015-11-06
-*  angular-leaflet-directive - An AngularJS directive to easily interact with Leaflet maps
-*  git: https://github.com/tombatossals/angular-leaflet-directive
+*  angular-leaflet  2015-11-06
+*  angular-leaflet - An AngularJS directive to easily interact with Leaflet maps
+*  git: https://github.com/tombatossals/angular-leaflet
 */
 (function(angular){
 'use strict';
