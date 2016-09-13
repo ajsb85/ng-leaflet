@@ -1,9 +1,9 @@
 {
     "name": "angular-leaflet",
-    "author": "https://github.com/tombatossals/angular-leaflet/graphs/contributors",
+    "author": "https://github.com/ajsb85/angular-leaflet/graphs/contributors",
     "description": "angular-leaflet - An AngularJS directive to easily interact with Leaflet maps",
     "version": "0.10.0",
-    "homepage": "http://tombatossals.github.io/angular-leaflet/",
+    "homepage": "http://ajsb85.github.io/angular-leaflet/",
     "keywords": [
         "angularjs",
         "javascript",

@@ -11,7 +11,7 @@
     "saucelabs": {
         "options": {
             "args": {
-                "baseUrl": "http://tombatossals.github.io/angular-leaflet/examples/",
+                "baseUrl": "http://ajsb85.github.io/angular-leaflet/examples/",
                 "sauceUser": "<%= saucelabs.SAUCE_USERNAME %>",
                 "sauceKey": "<% saucelabs.SAUCE_ACCESS_KEY %>"
             }
