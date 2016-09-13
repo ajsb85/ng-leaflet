@@ -57,6 +57,6 @@
   "main": "dist/angular-leaflet",
   "dependencies": {
     "angular": "1.x",
-    "leaflet": "0.7.x"
+    "leaflet": "1.0.0-rc.3"
   }
 }
