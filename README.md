@@ -1,5 +1,7 @@
 # Angular Leaflet Directive
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/ng-leaflet.svg)](https://greenkeeper.io/)
+
 [AngularJS](http://angularjs.org/) directive for the [Leaflet](http://www.leafletjs.com/) Javascript
 Library. This software aims to easily embed maps managed by Leaflet on your project.
 
